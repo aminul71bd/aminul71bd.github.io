@@ -4,12 +4,12 @@
 
 <br/>
 <br/>
-<h2 style="color:#0c30f5">About Me</h2>
+<h2 style="color:rgb(12,48,245);">About Me</h2>
 <p>I am a self-motivated, dedicated, and passionate computer programmer loving to work with Python, C++, JavaScript, and MongoDB. I have been engaged in computer programming since 1994. After the COVID pandemic, I want to work from home as a freelancer and I want to assist people with my programming and web development skills. My built-in artistic nature provides additional quality to my work. Client satisfaction is my utmost priority.</p>
 
 <br/>
 <br/>
-<h2 style="color:#0c30f5">Education</h2>
+<h2 style="color:rgb(12,48,245);">Education</h2>
 <ul>
   <li><p>1989: Passed SSC from Shikaripara T K M High School with First Division from Science Group with subjects:Bengali, English Language, Physics, Chemistry, Biology, General and  Higher Mathematics</p></li>
   <li><p>1991: Passed HSC from Dhaka College with First Division (star marks) from Science Group  with subjects: English Language, Physics, Chemistry, Biology, Mathematics</p></li>
@@ -19,7 +19,7 @@
 
 <br/>
 <br/>
-<h2 style="color:#0c30f5">Professional Experience</h2>
+<h2 style="color:rgb(12,48,245);">Professional Experience</h2>
 <ul>
   <li><p>2004 - 2009: O and A Level Science Teacher at ESS (European Standard School), Dhaka, Bangladesh</p></li>
   <li><p>2010 - 2019: Computer Programming Instructor and Software Developer at Newtonia Ltd, Dhaka, Bangladesh</p></li>
@@ -31,23 +31,23 @@
 
 <br/>
 <br/>
-<h2 style="color:#0c30f5">Achievements</h2>
+<h2 style="color:rgb(12,48,245);">Achievements</h2>
 <p>Dec 2016: Certificate of the course:<a href="https://certificates.simplicdn.net/share/thumb_229715.png">'All-in-One Python Development Suite'</a> from Simplilearn (https://certificates.simplicdn.net/share/thumb_229715.png) </p>
 
 <br/>
 <br/>
-<h2 style="color:#0c30f5">Contact Me</h2>
+<h2 style="color:rgb(12,48,245);">Contact Me</h2>
 <ul>
-  <li>Name:Engr. A K M Aminul Islam</li>
-  <li>Phone:+8801819501330</li>
-  <li>Email:aminul71bd@gmail.com</li>
-  <li>Permanent Address:Hagradi, Shikaripara, Nawabganj, Dhaka-1322, Bangladesh</li>
-  <li>Permanent Address:Road:1/1, Ward:4, Puratan Bandura, Nawabganj, Dhaka-1321, Bangladesh</li>
+  <li>Name: Engr. A K M Aminul Islam</li>
+  <li>Phone: +8801819501330</li>
+  <li>Email: aminul71bd@gmail.com</li>
+  <li>Permanent Address: Hagradi, Shikaripara, Nawabganj, Dhaka-1322, Bangladesh</li>
+  <li>Permanent Address: Road:1/1, Ward:4, Puratan Bandura, Nawabganj, Dhaka-1321, Bangladesh</li>
 </ul>
 
 <br/>
 <br/>
-<h3 style="color:#0c30f5"><a href="https://www.docdroid.net/ebeYZsF/a-k-m-aminul-islam-3-pdf">Download My Resume</a></h3>
+<h3 style="color:#0c30f5;"><a href="https://www.docdroid.net/ebeYZsF/a-k-m-aminul-islam-3-pdf">Download My Resume</a></h3>
 
 
 
