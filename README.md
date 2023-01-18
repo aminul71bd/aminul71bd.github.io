@@ -1,2 +1,5 @@
-# aminul71bd.github.io  
-#### My education and technical skills in short
+### aminul71bd.github.io  
+<span>![myphoto]() <h1> My Education and Technical Skills</h1></span><br/>
+
+
+
