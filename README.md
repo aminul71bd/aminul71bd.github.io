@@ -42,7 +42,7 @@
   <li>Phone: +8801819501330</li>
   <li>Email: aminul71bd@gmail.com</li>
   <li>Permanent Address: Hagradi, Shikaripara, Nawabganj, Dhaka-1322, Bangladesh</li>
-  <li>Permanent Address: Road:1/1, Ward:4, Puratan Bandura, Nawabganj, Dhaka-1321, Bangladesh</li>
+  <li>Present Address: Road:1/1, Ward:4, Puratan Bandura, Nawabganj, Dhaka-1321, Bangladesh</li>
 </ul>
 
 <br/>
