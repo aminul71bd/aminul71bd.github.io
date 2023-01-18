@@ -32,7 +32,7 @@
 <br/>
 <br/>
 <h2>Achievements</h2>
-<p>Dec 2016: Certificate of the course:'All-in-One Python Development Suite' from Simplilearn (<a href="https://certificates.simplicdn.net/share/thumb_229715.png</a>">https://certificates.simplicdn.net/share/thumb_229715.png</a>) </p></li>
+<p>Dec 2016: Certificate of the course:<a href="https://certificates.simplicdn.net/share/thumb_229715.png">'All-in-One Python Development Suite'</a> from Simplilearn (https://certificates.simplicdn.net/share/thumb_229715.png) </p></li>
 
 &nbsp;<br/>
 &nbsp;<br/>
