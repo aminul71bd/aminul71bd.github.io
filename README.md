@@ -47,7 +47,7 @@
 
 <br/>
 <br/>
-<h3 style="color:#0c30f5;"><a href="https://www.docdroid.net/ebeYZsF/a-k-m-aminul-islam-3-pdf">Download My Resume</a></h3>
+<h3><a href="https://www.docdroid.net/ebeYZsF/a-k-m-aminul-islam-3-pdf">Download My Resume</a></h3>
 
 
 
