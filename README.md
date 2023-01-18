@@ -23,7 +23,7 @@
 <ul>
   <li><p>2004 - 2009: O and A Level Science Teacher at ESS (European Standard School), Dhaka, Bangladesh</p></li>
   <li><p>2010 - 2019: Computer Programming Instructor and Software Developer at Newtonia Ltd, Dhaka, Bangladesh</p></li>
-  <li><p>2020 - 2021: Jobless due to the COVID Pandemic
+  <li><p>2020 - 2021: Jobless due to the COVID Pandemic</p></li>
   <li><p>2020 - 2021: Writing and publishing 'upmath' python package library to GitHub. 'upmath' is one of Python's fastest math libraries. <a href="https://pypi.org/project/upmath/">https://pypi.org/project/upmath/</a></p></li>
   <li><p>2021 - 2022: Auto Incubator Project at Newtonia Ltd.</p></li>
   <li><p>2023 + : Freelancer looking for programming job.</p></li>
@@ -32,7 +32,7 @@
 <br/>
 <br/>
 <h2>Achievements</h2>
-<p>Dec 2016: Certificate of the course:<a href="https://certificates.simplicdn.net/share/thumb_229715.png">'All-in-One Python Development Suite'</a> from Simplilearn (https://certificates.simplicdn.net/share/thumb_229715.png) </p></li>
+<p>Dec 2016: Certificate of the course:<a href="https://certificates.simplicdn.net/share/thumb_229715.png">'All-in-One Python Development Suite'</a> from Simplilearn (https://certificates.simplicdn.net/share/thumb_229715.png) </p>
 
 &nbsp;<br/>
 &nbsp;<br/>
