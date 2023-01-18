@@ -19,7 +19,7 @@
 
 <br/>
 <br/>
-<h2 style="color:rgb(12,48,245);">Professional Experience</h2>
+<h2 color="#0c30f5">Professional Experience</h2>
 <ul>
   <li><p>2004 - 2009: O and A Level Science Teacher at ESS (European Standard School), Dhaka, Bangladesh</p></li>
   <li><p>2010 - 2019: Computer Programming Instructor and Software Developer at Newtonia Ltd, Dhaka, Bangladesh</p></li>
